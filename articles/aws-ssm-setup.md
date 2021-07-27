@@ -1,3 +1,10 @@
+---
+title: "System Manager Patch Manager Setup"
+emoji: "🐒"
+type: "tech"
+topics: ["aws", "security", "ssm"]
+published: false
+---
 # [WIP] System Manager Patch Manager Setup
 ## はじめに
 

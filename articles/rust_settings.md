@@ -1,12 +1,12 @@
 ---
-title: "Rust環境のSetup for macOS"
+title: "Rust環境のSetup"
 emoji: "📑"
 type: "tech"
-topics: ["rust", "setup"]
-published: false
+topics: ["rust", "setup", "手順"]
+published: true
 ---
 
-# Mac で Rust
+# はじめに
 
 Rustの勉強を始めたので、今後も参照するであろうコマンド類をまとめておきます.
 
